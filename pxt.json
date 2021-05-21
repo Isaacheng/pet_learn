@@ -1,0 +1,23 @@
+{
+    "name": "PET_learn",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "koi": "github:kittenbot/pxt-koi#v0.5.7",
+        "powerbrick": "github:kittenbot/pxt-powerbrick#v0.3.5",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
